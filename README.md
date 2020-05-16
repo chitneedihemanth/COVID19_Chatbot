@@ -12,3 +12,5 @@ Slack   :  https://www.youtube.com/watch?v=YsOcE8pCXsk
 
 Telegram:  https://rasa.com/docs/rasa/user-guide/connectors/telegram/
 ![image](https://user-images.githubusercontent.com/13981600/82125200-087bc480-97c2-11ea-9142-c3d7e87ec74f.png)
+
+Add nlu.md and stories.md into a new folder called data
