@@ -4,8 +4,9 @@ This is a RASA AI conversational chatbot developed to show
 2. Zone wise status for the requested district in India
 
 This chatbot is integrated with Slack and Telegram
-A guide to integrate with 
+<br>A guide to integrate with 
 Slack   :  https://www.youtube.com/watch?v=YsOcE8pCXsk
+
 ![image](https://user-images.githubusercontent.com/13981600/82125163-c488bf80-97c1-11ea-9abf-96f29d9c2233.png)
 ![image](https://user-images.githubusercontent.com/13981600/82125164-cbafcd80-97c1-11ea-9cbe-eb55e5875dcb.png)
 
